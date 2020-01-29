@@ -1,0 +1,8 @@
+## Interface: 80000
+## Title: H.E.V. Suit Clock
+## Author: Thunderysteak
+## Notes: I sexually identify as a measure of kilometers per second
+## DefaultState: Enabled
+
+
+fvox_time.lua
